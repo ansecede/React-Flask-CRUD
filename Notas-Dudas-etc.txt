@@ -1,0 +1,15 @@
+General:
+- Comentar el codigo de la DB --> .sql
+
+DB:
+- Rol del Usuario y Perfil del usuario estan cambiados. Parece que no existe columna para el Rol. en idperfil de los 
+usuarios llega hasta el 41, justo como en la tabla Rol.
+Sobre la vista
+-Preguntar acerca de las observaciones y sugerencias de serv_detalle.
+
+
+----------------------------------------------------------------------------------------------------
+Algoritmo para conseguir edad:
+https://stackoverflow.com/questions/1572110/how-to-calculate-age-in-years-based-on-date-of-birth-and-getdate
+
+
